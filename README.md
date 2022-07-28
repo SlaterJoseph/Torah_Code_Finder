@@ -10,4 +10,5 @@ PyQt5
 PySides6
 
 ##Video Walkthrough
+
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
